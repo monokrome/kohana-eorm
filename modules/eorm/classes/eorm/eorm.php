@@ -31,14 +31,3 @@ class EORM_EORM exends ORM
 	}
 }
 
-/**
- * Demo of using this ORM.
- */
-class Model_User extends EORM
-{
-	public $nickname;
-	public $password;
-
-	protected function init_columns
-}
-
